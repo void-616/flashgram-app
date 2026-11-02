@@ -7,6 +7,7 @@ A Telegram file downloader for Android. Downloads media and files from Telegram 
 ## Features
 
 - **Material 3 design** with a dynamic accent color picker (Gold, Sapphire, Emerald, Crimson)
+- **Simple login**: sign in with just your phone number. FlashGram comes with a built-in API ID, so there is nothing to set up first. If you prefer your own, you can use it from the bottom of the phone-number screen
 - **Swipe navigation**: swipe left and right to move between Settings, Downloads and History, or tap the bottom bar
 - **Background downloads**: downloads continue via a foreground service with a live progress notification, even while you're using other apps
 - **Pause and resume**: pause a download and pick it back up later without losing progress, even after closing and reopening the app
@@ -35,7 +36,7 @@ Since FlashGram isn't distributed through the Google Play Store, you'll need to 
 
 - Android 10 (API 29) or newer
 - A Telegram account
-- A free Telegram API ID and API Hash from [my.telegram.org/apps](https://my.telegram.org/apps). The login screen explains the steps
+- Optional: your own free Telegram API ID and API Hash from [my.telegram.org/apps](https://my.telegram.org/apps). FlashGram has a built-in one, so you only need this if you want to use your own. The "Use your own Telegram app API credentials" option on the phone-number screen explains the steps
 
 ## Updates
 
